@@ -1,4 +1,4 @@
-package javaprogramming;
+package javaprogramming.tictactoe;
 
 import java.util.Hashtable;
 

@@ -1,4 +1,4 @@
-package javaprogramming;
+package javaprogramming.tictactoe;
 /**
  * 
  * This class has just the purpose to 

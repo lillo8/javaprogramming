@@ -1,4 +1,4 @@
-package javaprogramming;
+package javaprogramming.tictactoe;
 
 /**
  * Utility class to identify the position

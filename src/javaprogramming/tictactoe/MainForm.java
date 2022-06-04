@@ -1,4 +1,4 @@
-package javaprogramming;
+package javaprogramming.tictactoe;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
